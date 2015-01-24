@@ -1,0 +1,24 @@
+Problem 1
+Part (a)
+	1. Looking up information relevant to the course.
+	3. Talking to classmates about the problems.
+	5. Asking the course staff for help.
+Part (b)
+	2. emacs
+	3. Eclipse
+	4. vim
+	5. Microsoft Visual Studio
+	7. Sublime
+Part (c)
+	3. Each student can use up to 2 of their 4 grace days on a single assignment.
+Pard (d)
+	2. Send an email to the instructor to let him/her know.
+
+Problem 2
+Part (a)
+	3. Terminal (Mac or Linux)
+Part (b)
+	1. git add hw1q2b.cpp
+	2. git log
+Part (c)
+	Commiting a file makes it part of the repository history. 
